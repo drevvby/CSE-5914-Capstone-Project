@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center ">
         <Image
           className=""
-          src="/cropped_circle_image.png"
+          src="/peakform-circular-title.png"
           alt="PeakForm logo"
           width={180}
           height={38}
